@@ -1,4 +1,4 @@
-# TOP
+# My Odin Project Assignments
 A repository that contains contents and my progress on The Odin Project
 
 | Project Title     |  | 
