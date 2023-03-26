@@ -1,2 +1,2 @@
-# Odin Project: Recipes
+# Odin Project: Recipes (Pastamiya!)
 
